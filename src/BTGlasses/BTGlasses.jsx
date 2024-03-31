@@ -19,7 +19,7 @@ export const BTGlasses = () => {
                 <img className="img-fluid img__model" src="./image/model.jpg" alt="" />
             </div>
             <div className="img__glasses ">
-                <img src="./image/v8.png" alt="" />  <img src="./image/v8.png" alt="" />  <img src="./image/v8.png" alt="" />  <img src="./image/v8.png" alt="" />  <img src="./image/v8.png" alt="" />
+                  <img src="./image/v8.png" alt="" />  <img src="./image/v8.png" alt="" />  <img src="./image/v8.png" alt="" />  <img src="./image/v8.png" alt="" />
 
             </div>
         </div>
